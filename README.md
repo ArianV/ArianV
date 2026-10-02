@@ -16,8 +16,8 @@ Full-stack web developer from Los Angeles. I got into coding in 2018 building Di
 
 ## 🚀 Projects
 
-**[Music Link Portal](https://github.com/ArianV/music)** · PHP
-Paste a song link from any streaming service and it finds the same song on the other platforms, then builds one landing page with all of them.
+**[PlugBio.Me](https://github.com/ArianV/music)** · PHP
+Music Link Portal Paste a song link from any streaming service and it finds the same song on the other platforms, then builds one landing page with all of them.
 
 **[VNitro](https://github.com/ArianV/VNitro)** · C#
 A mod for *Schedule I* that adds an in-game menu for putting nitro on your car and tuning how much power it gives.
