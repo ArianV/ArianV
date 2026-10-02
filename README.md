@@ -1,33 +1,33 @@
 # Hi, I'm Arian 👋
 
-Full-stack web developer based in Los Angeles. I've been coding since high school and doing paid client work since 2021. I build PHP and MySQL backends, APIs, and integrations, and I host and deploy my own projects on a VPS.
-
-Right now I'm building websites for small businesses through **[Vahdat Web](https://vahdatweb.com)** and looking for a junior web developer role.
+Full-stack web developer from Los Angeles. I got into coding in 2018 building Discord bots with Node.js, and I've been taking on client work ever since, mostly PHP and MySQL backends, APIs, and the occasional game mod when something catches my interest.
 
 ## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 **[Music Link Portal](https://github.com/ArianV/music)** · PHP
-Artists paste a song link from any streaming service, and the app finds the same song on other platforms and builds one shareable landing page for it.
+Paste a song link from any streaming service and it finds the same song on the other platforms, then builds one landing page with all of them.
 
 **[VNitro](https://github.com/ArianV/VNitro)** · C#
-A mod for the Steam game *Schedule I* that adds a custom in-game UI for adding nitro to vehicles and tuning its power.
+A mod for *Schedule I* that adds an in-game menu for putting nitro on your car and tuning how much power it gives.
 
-**Client work: E-commerce backend and storefront** · PHP, Shopify
-A PHP API that posts new orders and receipts to a client's Discord server through webhooks, sorted into channels, plus a Shopify-integrated storefront.
+**Discord bots** · Node.js, discord.js
+Where it all started. I built and sold bots to Discord communities: ticket systems, auto-mod, all-purpose bots, and integrations with FiveM (GTA V) servers. Some of them are still running today.
+
+**Shopify store with Discord order alerts** · PHP, Shopify
+Client project from 2021. A PHP backend that sends new orders and receipts to the client's Discord through webhooks, sorted into channels, plus the storefront itself.
 
 ## 📫 Contact
 
-- Website: [vahdatweb.com](https://vahdatweb.com)
-- Email: [arianvahdat03@gmail.com](mailto:arianvahdat03@gmail.com)
+[vahdatweb.com](https://vahdatweb.com) · [arianvahdat03@gmail.com](mailto:arianvahdat03@gmail.com)
