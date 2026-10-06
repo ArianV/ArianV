@@ -17,7 +17,7 @@ Full-stack web developer from Los Angeles. I got into coding in 2018 building Di
 
 ## 🚀 Projects
 
-**[VahdatWeb.Com](https://vahdatweb.com)** · PHP
+**[vahdatweb.com](https://vahdatweb.com)** · PHP
 My web design studio, where I take orders for full-stack websites for clients. You can see my previous work on the site too.
 
 **[PlugBio.Me](https://github.com/ArianV/music)** · PHP
