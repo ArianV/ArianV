@@ -6,6 +6,7 @@ Full-stack web developer from Los Angeles. I got into coding in 2018 building Di
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,10 +18,13 @@ Full-stack web developer from Los Angeles. I got into coding in 2018 building Di
 ## 🚀 Projects
 
 **[VahdatWeb.Com](https://vahdatweb.com)** · PHP
-My personal website studio where I take and complete orders of full stack websites for clients. My previous work can also be viewed on my businesses website.
+My web design studio, where I take orders for full-stack websites for clients. You can see my previous work on the site too.
 
 **[PlugBio.Me](https://github.com/ArianV/music)** · PHP
-Music Link Portal Paste a song link from any streaming service and it finds the same song on the other platforms, then builds one landing page with all of them.
+Music link portal. Paste a song link from any streaming service and it finds the same song on the other platforms, then builds one landing page with all of them.
+
+**[SimpleTickets](https://github.com/ArianV/SimpleTickets)** · TypeScript, discord.js
+A self-hosted Discord ticket bot. Members open a ticket from a button and get a private channel with your support team, who can claim it, add people and close it out. Closing saves an HTML transcript to a log channel. No database needed, and it runs on Windows with a one-click install.
 
 **[VNitro](https://github.com/ArianV/VNitro)** · C#
 A mod for *Schedule I* that adds an in-game menu for putting nitro on your car and tuning how much power it gives.
